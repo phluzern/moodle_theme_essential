@@ -1992,7 +1992,7 @@ table.calendarmonth.calendartable {
 }
 
 /*bug fix*/
-.moodle-actionmenu a.icon i.fa {
+.moodle-actionmenu a.icon i.fa, a i.fa  {
     display:none !important;
 }
 

@@ -1993,7 +1993,10 @@ table.calendarmonth.calendartable {
 
 /*bug fix*/
 .moodle-actionmenu a.icon i.fa, a i.fa  {
-    display:none !important;
+    display:none;
+}
+a.btn i.fa {
+    display:block !important;
 }
 
 

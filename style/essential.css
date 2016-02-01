@@ -2003,6 +2003,16 @@ a.btn i.fa {
     min-width:300px;
 }
 
+.jschooser .choosercontainer #chooseform .alloptions {
+    max-width: 25.3em;
+}
+.jschooser .choosercontainer #chooseform .instruction, .jschooser .choosercontainer #chooseform .typesummary {
+    left: 25.3em;
+}
+.moodle-dialogue-base .moodle-dialogue-wrap {
+    width:800px;
+}
+
 
 /* @end */
 

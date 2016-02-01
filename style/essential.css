@@ -1999,8 +1999,8 @@ a.btn i.fa {
     display:block !important;
 }
 
-#region-bs-main-and-pre.span9 .row-fluid aside#block-region-side-pre.span4 {
-    margin-left:0px;
+.moodle-actionmenu[data-enhanced].show .menu {
+    min-width:300px;
 }
 
 

@@ -1999,6 +1999,10 @@ a.btn i.fa {
     display:block !important;
 }
 
+#region-bs-main-and-pre.span9 .row-fluid aside#block-region-side-pre.span4 {
+    margin-left:0px;
+}
+
 
 /* @end */
 

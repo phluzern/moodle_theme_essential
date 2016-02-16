@@ -2013,6 +2013,9 @@ a.btn i.fa {
     width:800px;
 }
 
+.sectionopen .iconsmall.edit {
+    display:none;
+}
 
 /* @end */
 
